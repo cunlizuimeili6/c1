@@ -45,6 +45,10 @@ int main(){
         scanf("%c",&x);
         scanf("%c",&x);
     }
+        if(a==4){
+        printf("tuichu\n");
+        break;
+    }
     }
 
     return 0;
