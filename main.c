@@ -22,6 +22,23 @@ int main(){
     scanf("%c",&x);
     scanf("%c",&x);
     }
+        if(a==2){
+        int qu;
+        char x;
+        printf("quqianjine:\n");
+        scanf("%d",&qu);
+        if(qian>=qu){
+            qian-=qu;
+            printf("jixu\n");
+            scanf("%c",&x);
+            scanf("%c",&x);
+        }else{
+            printf("jixu\n");
+            scanf("%c",&x);
+            scanf("%c",&x);
+        }
+    }
+    
     }
 
     return 0;
