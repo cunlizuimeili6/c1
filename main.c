@@ -38,7 +38,13 @@ int main(){
             scanf("%c",&x);
         }
     }
-    
+        if(a==3){
+        char x;
+        printf("yue: %d\n",qian);
+        printf("jixi\n");
+        scanf("%c",&x);
+        scanf("%c",&x);
+    }
     }
 
     return 0;
